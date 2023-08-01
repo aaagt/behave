@@ -3,11 +3,11 @@ plugins {
 }
 
 
-group = "${rootProject.group}.task1"
+group = "${rootProject.group}.iterator"
 
 
 application {
-    mainClass.set("Main")
+    mainClass.set("${group}.Main")
 }
 
 

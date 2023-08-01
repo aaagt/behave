@@ -1,3 +1,3 @@
-# name
+# Поведенческие шаблоны. Command, CoR, Observer, Iterator
 
-- [task1](./task1) - task1 name
+- [task1](./task1) - Бесконечная итерация
